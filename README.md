@@ -1,4 +1,4 @@
-# Password-Protected Lock System with Keypad
+# Password-Protected Lock System
 
 This project implements a simple password-protected lock system using an ATmega328P microcontroller and a 4x4 matrix keypad. The lock can be opened and closed based on user input through the keypad. It communicates with the user via UART, displaying access status (locked/unlocked, access denied, etc.).
 
